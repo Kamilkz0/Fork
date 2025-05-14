@@ -10,7 +10,13 @@ public class Main {
         for (int i = 1; i <= 5; i++) {
 
             System.out.print(i);
-            
+            //awdawdaw
+        }
+
+        for (int i = 1; i <= 5; i++) {
+
+            System.out.print("POP ");
+            //awdawdaw
         }
     }
 }
